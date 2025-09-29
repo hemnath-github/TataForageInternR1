@@ -4,7 +4,9 @@ Superstore Online Retail Sales Analysis.
 
 **This Internship main theme is to get business insights & expectations to make decision of it.**
 
-Tools:     **Excel, Power BI** -  For Data Importing and Cleaning , Dashboard and Reporting the results
+Tools:     
+
+**Excel, Power BI** -  For Data Importing and Cleaning , Dashboard and Reporting the results
 
 CMO and CEO, interested to get answer the following questions,
 
