@@ -69,7 +69,6 @@ Details:
 "We can clearly see that regions have the highest demand for our products."
 
 
-
 **Key TakeAways :**
 
 (.) **These trends are likely influenced by potential factors, e.g., holiday shopping, seasonal promotions, product seasonality.** Further investigation into specific product sales during
