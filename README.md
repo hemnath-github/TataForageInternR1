@@ -68,7 +68,6 @@ Details:
 "CEO, here's a global view of product demand, excluding the UK. Map  color-coded demand levels, regions with high demand.
 "We can clearly see that regions have the highest demand for our products."
 
-
 **Key TakeAways :**
 
 (.) **These trends are likely influenced by potential factors, e.g., holiday shopping, seasonal promotions, product seasonality.** Further investigation into specific product sales during
