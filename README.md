@@ -6,7 +6,7 @@ Superstore Online Retail Sales Analysis.
 
 Tools :     
 
-**Excel, Power BI** -  For Data Importing and Cleaning , Dashboard and Reporting the results
+**Excel,Power BI** -  For Data Importing and Cleaning , Dashboard and Reporting the results
 
 CMO and CEO, interested to get answer the following questions,
 
@@ -50,7 +50,7 @@ These trends could be caused by seasonal shopping habits, and weather conditions
 A2, **Top 10 Countries by Revenue** (CMO Focus)
 
 Details:
-"CMO, here's a breakdown of the top 10 revenue-generating countries, excluding the UK. 
+"CMO,here's a breakdown of the top 10 revenue-generating countries, excluding the UK. 
 Bar chart showing revenue and quantity sold for each country, Top 3 countries and their revenue/quantity.
 "We can see that our highest revenue generators, and also have a high quantity of items sold."
 
