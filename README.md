@@ -10,7 +10,7 @@ Tools :
 
 CMO and CEO, interested to get answer the following questions,
 
-Q 1, The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only.He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
+Q 1, The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
 
 Q 2, The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the
 revenue generated. The CMO does not want to have the United Kingdom in this visual.
