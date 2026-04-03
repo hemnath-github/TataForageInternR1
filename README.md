@@ -6,7 +6,7 @@ Superstore Online Retail Sales Analysis.
 
 Tools :  
 
-**Excel , Power BI** -  For Data Importing and Cleaning , Dashboard and Reporting the results
+**Excel, Power BI** -  For Data Importing and Cleaning, Dashboard and Reporting the results
 
 CMO and CEO, interested to get answer the following questions,
 
