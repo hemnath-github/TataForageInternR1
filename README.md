@@ -6,25 +6,26 @@ Superstore Online Retail Sales Analysis.
 
 Tools :  
 
-**Excel, Power BI** -  For Data Importing and Cleaning, Dashboard and Reporting the results
+**Excel, Power BI** - For Data Importing and Cleaning, Dashboard and Reporting the results
 
 CMO and CEO, interested to get answer the following questions,
 
-Q 1, The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
+Q 1, 
+The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
 
-Q 2, The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the
-revenue generated. The CMO does not want to have the United Kingdom in this visual.
+Q 2, 
+The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 
-Q 3, The CMO of the online retail store wants to view the information on the top 10 customers by revenue. 
+Q 3, 
+The CMO of the online retail store wants to view the information on the top 10 customers by revenue. 
 The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 
-Q 4, The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products.
+Q 4, 
+The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products.
 Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy.
-
 
 Our analysis is based on the 2011 transactional data from our retail database. 
 We began by extracting and consolidating this data into a format suitable for analysis.
-
 
 (*) To ensure accuracy, we performed rigorous data cleaning. 
 
@@ -69,8 +70,7 @@ Details:
 
 **Key TakeAways :**
 
-(.) **These trends are likely influenced by potential factors, e.g., holiday shopping, seasonal promotions, product seasonality.** Further investigation into specific product sales during
-    these periods can provide deeper insights.
+(.) **These trends are likely influenced by potential factors, e.g., holiday shopping, seasonal promotions, product seasonality.** Further investigation into specific product sales during these periods can provide deeper insights.
 
 (.) Viewing both revenue and quantity allows us to understand **not only the value of sales but also the volume of products being moved in each country.**
 
