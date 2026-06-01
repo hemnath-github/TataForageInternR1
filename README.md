@@ -8,7 +8,7 @@ Tools :
 
 **Excel, Power BI** - For Data Importing and Cleaning, Dashboard and Reporting the results
 
-CMO and CEO , interested to get answer the following questions,
+CMO and CEO , interested to get answer the following questions ,
 
 Q1 , 
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
