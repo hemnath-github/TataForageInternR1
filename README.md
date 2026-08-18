@@ -4,16 +4,16 @@ Superstore Online Retail Sales Analysis.
 
 **This Internship main theme is to get business insights & expectations to make decision of it.**
 
-Tools :
+Tools:
 
-**Excel, Power BI** - For Data Importing and Cleaning , Dashboard and Reporting the results
+**Excel, Power BI** - For Data Importing and Cleaning, Dashboard and Reporting the results
 
 CMO and CEO, interested to get answer the following questions,
 
 Q1, 
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
 
-Q2 , 
+Q2, 
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 
 Q3 , 
